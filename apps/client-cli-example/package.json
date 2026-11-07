@@ -18,7 +18,7 @@
     "@mastra/loggers": "^1.2.0",
     "@mastra/memory": "^1.21.2",
     "open": "^10.1.2",
-    "zod": "^3.25.75"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@types/node": "^20",

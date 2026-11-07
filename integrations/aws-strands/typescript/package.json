@@ -52,7 +52,7 @@
     }
   },
   "dependencies": {
-    "zod": "^3.25.18 || ^4.0.0"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@ag-ui/a2ui-toolkit": "workspace:*",
@@ -60,9 +60,9 @@
     "@ag-ui/core": "workspace:*",
     "@ag-ui/encoder": "workspace:*",
     "@arethetypeswrong/cli": "^0.17.4",
-    "@modelcontextprotocol/sdk": "^1.29.0",
+    "@modelcontextprotocol/sdk": "^1.32.0",
     "@opentelemetry/api": "^1.9.0",
-    "@strands-agents/sdk": "^1.1.0",
+    "@strands-agents/sdk": "^1.5.0",
     "@types/cors": "^2.8.17",
     "@types/express": "^5.0.0",
     "@types/node": "^20.11.19",

@@ -60,7 +60,7 @@
     "@ai-sdk/ui-utils": "^1.1.19",
     "fast-json-patch": "^3.1.1",
     "rxjs": "7.8.1",
-    "zod": "^3.25.76"
+    "zod": "^4.6.6"
   },
   "peerDependencies": {
     "@ag-ui/core": ">=1.0.0",
